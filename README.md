@@ -19,4 +19,4 @@ yarn dev
 ## Funções da API
  - Com a API executando localmente com sucesso, as seguintes funcionalidades estão disponíveis para os respectivos ENDPOINTS da api:
  
- ```/pokerhand-data : Obtem os dados do site e retorna um JSON com as informações necessárias```
+ ```/dados-pokerhand : Obtem os dados do site e retorna um JSON com as informações necessárias```
