@@ -16,6 +16,8 @@ yarn
 yarn dev
 ```
 
+ - Para a execução dos testes da aplicação basta executar o comando `yarn jest`
+
 ## Funções da API
  - Com a API executando localmente com sucesso, as seguintes funcionalidades estão disponíveis para os respectivos ENDPOINTS da api:
  
