@@ -1,9 +1,9 @@
 import { Router } from 'express';
 
-import PokerHandDataController from './app/controllers/PokerHandDataController';
+import DadosPokerHandController from './app/controllers/DadosPokerHandController';
 
 const routes = new Router();
 
-routes.get('/pokerhand-data', PokerHandDataController.index);
+routes.get('/dados-pokerhand', DadosPokerHandController.index);
 
 export default routes;
